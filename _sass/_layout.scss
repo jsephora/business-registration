@@ -78,9 +78,14 @@ header {
 		margin-top: 40px;
 		float: right;
 
-		a, a:link, a:visited {
+		.btn-primary {
+			margin-bottom: 1rem;
+		}
+
+/*		a, a:link, a:visited {
 			display: inline-block;
 			margin: 0;
+			padding: 2rem;
 			font-size: 1.5rem;
 			background: transparent;
 			color: black; // $brand-blue;
@@ -90,7 +95,7 @@ header {
 			background: transparent;
 			color: black;
 			text-decoration: underline;
-		}
+		}*/
 	}
 
 	/* Gov logo */
