@@ -40,9 +40,7 @@ a[href^="http"] {
     &:after {
       content: "\F08E";
       font-family: FontAwesome;
-      right: 5px;
-      position: absolute;
-      top: 0;
+      font-size: 1rem;
     }
 }
 

@@ -4,14 +4,15 @@
 a.standard-link {
 	color: #254f90;
 	text-decoration: none;
-	&:hover {
+	&:hover, &:focus, &:active {
 		color: #0f54c3;
 		text-decoration: underline;
+		background-color: transparent;
 	}
-	&:visited {
+/*	&:visited {
 		color: #672f8d;
 		text-decoration: none;
-	}
+	}*/
 }
 p.app-ref {
 	position: absolute;
