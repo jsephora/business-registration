@@ -80,9 +80,11 @@ header {
 
 		.btn-primary {
 			margin-bottom: 1rem;
+			margin-right: 0;
 			&:hover, &:focus, &:active {
 				background-color: #254f90;
 				color: #fff;
+				border: 1px solid #254f90;
 			}
 		}
 

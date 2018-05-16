@@ -3,12 +3,13 @@ title: Business registration
 layout: default
 ---
 <h1 id="heading" tabindex="-1">{{ page.title }}</h1>
-<p><strong>Welcome to the Australian Government Business Registration Service.</strong> <br>Here you can apply for your key business and tax registrations in one place.</p>
-<p><strong>Are you new to business? </strong>To help you get started, see business.gov.au's <a href="https://www.business.gov.au/Info/Plan-and-Start/Templates-and-tools/Checklists/Starting-your-business-checklist" target="_blank">Starting your business checklist <span class="visuallyhidden">(opens in new window)</span></a> and download a <a href="https://www.business.gov.au/info/plan-and-start/templates-and-tools/business-plan-template-and-guide" target="_blank">business plan template <span class="visuallyhidden">(opens in new window)</span></a>.</p>
+
+<p>Welcome to the Australian Government Business Registration Service. <br>Here you can apply for your key business and tax registrations in one place.</p>
+<p>New to business? To help you get started, see our <a href="https://www.business.gov.au/Guide/Starting" target="_blank">Starting a business guide <span class="visuallyhidden">(opens in new window)</span></a>.</p>
 <a class="cd-btn help" href="#help-selectregistrationsdescription"><span>Help - Select registrations</span></a>
 <p></p>
 <div id="select-registrations" class="sub-section-container sub-section-open">
-	<h2>Select registrations</h2>
+	<h2>I want to register for:</h2>
 	<div class="sub-section-content">
 		<div class="grid-row custom-controls clearfix">
 			<div class="col6">
