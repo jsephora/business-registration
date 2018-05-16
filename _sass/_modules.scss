@@ -1008,15 +1008,18 @@ button.closeSystemMessage {
 /* help-icon styles with hover state */
 a.help {
     position: relative;
+	text-decoration: none;
+	color: #4569a0;
     &:after {
       content: "\F05A";
       font-family: FontAwesome;
-      font-size: 1.250rem;
+      font-size: 1.5rem;
     }
 
 
     &:focus, &:hover {
-        background-color: #1f4176;
+        color: #0f54c3;
+		background-color: transparent;
     }
 
     &:focus {
@@ -1070,9 +1073,9 @@ a.help {
     }
 
     label.has-help & {
-        position: absolute;
-        margin-top: -5px;
-        margin-left: 5px;
+        position: relative;
+        // margin-top: -5px;
+        // margin-left: 5px;
     }
 
     .col1.last &, .col2.last & {
