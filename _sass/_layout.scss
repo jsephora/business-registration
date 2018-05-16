@@ -80,6 +80,10 @@ header {
 
 		.btn-primary {
 			margin-bottom: 1rem;
+			&:hover, &:focus, &:active {
+				background-color: #254f90;
+				color: #fff;
+			}
 		}
 
 /*		a, a:link, a:visited {
@@ -129,7 +133,7 @@ header {
 	
 	nav {
 		position: absolute;
-		top: 65px;
+		top: 90px;
 		right: 2%;
 	}
 
