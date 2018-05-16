@@ -1007,6 +1007,23 @@ button.closeSystemMessage {
 
 /* help-icon styles with hover state */
 a.help {
+    position: relative;
+    &:after {
+      content: "\F05A";
+      font-family: FontAwesome;
+      font-size: 1.250rem;
+    }
+
+
+    &:focus, &:hover {
+        background-color: #1f4176;
+    }
+
+    &:focus {
+	    outline: 1px solid $input-outline;
+    }
+
+/*a.help {
 	background-image: url(../img/sprite-info.png);
 	background-color: transparent;
     background-repeat: no-repeat;
@@ -1026,7 +1043,7 @@ a.help {
 
     &:focus {
 	    outline: 1px solid $input-outline;
-    }
+    }*/
 
     span {
         border: 0;

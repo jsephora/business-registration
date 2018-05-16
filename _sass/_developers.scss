@@ -1,9 +1,9 @@
 // ----- Developers use for additions or overrides. UI team then refactor this into appropriate SASS file
 // ------------------------------------------------------------------------------------------------------
 
-a.standard-link {
+a.link {
 	color: #254f90;
-	text-decoration: none;
+	text-decoration: underline;
 	&:hover, &:focus, &:active {
 		color: #0f54c3;
 		text-decoration: underline;

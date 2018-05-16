@@ -34,13 +34,12 @@ a[href^="http"] {
 }*/
 
 // add image to background of external links
-a.external-link,
-a[href^="http"] {
+a.external-link {
     position: relative;
     &:after {
       content: "\F08E";
       font-family: FontAwesome;
-      font-size: 1rem;
+      font-size: 0.875rem;
     }
 }
 
