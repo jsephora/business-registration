@@ -5,7 +5,7 @@ layout: default
 <h1 id="heading" tabindex="-1">{{ page.title }}</h1>
 
 <p>Welcome to the Australian Government Business Registration Service. <br>Here you can apply for your key business and tax registrations in one place.</p>
-<p>New to business? To help you get started, see our <a class="link external-link" href="https://www.business.gov.au/Guide/Starting" target="_blank">Starting a business guide <span class="visuallyhidden">(opens in new window)</span></a>.</p>
+<p>New to business? To help you get started, see our <a class="standard-link external-link" href="https://www.business.gov.au/Guide/Starting" target="_blank">Starting a business guide <span class="visuallyhidden">(opens in new window)</span></a>.</p>
 
 <div id="select-registrations" class="sub-section-container sub-section-open">
 	<h2>Select registrations</h2>
