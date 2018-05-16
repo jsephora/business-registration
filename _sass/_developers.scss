@@ -1,6 +1,18 @@
 // ----- Developers use for additions or overrides. UI team then refactor this into appropriate SASS file
 // ------------------------------------------------------------------------------------------------------
 
+a.standard-link {
+	color: #254f90;
+	text-decoration: none;
+	&:hover {
+		color: #0f54c3;
+		text-decoration: underline;
+	}
+	&:visited {
+		color: #672f8d;
+		text-decoration: none;
+	}
+}
 p.app-ref {
 	position: absolute;
 	right: 2%;

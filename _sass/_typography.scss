@@ -23,7 +23,7 @@ a:active {
   text-decoration: none;
 }
 
-// add image to background of external links
+/*// add image to background of external links
 a.external-link,
 a[href^="http"] {
     display: inline-block;
@@ -31,6 +31,19 @@ a[href^="http"] {
 	background-image: url(../img/ico-external.png);
 	background-repeat: no-repeat;
 	background-position: right 5px;
+}*/
+
+// add image to background of external links
+a.external-link,
+a[href^="http"] {
+    position: relative;
+    &:after {
+      content: "\F08E";
+      font-family: FontAwesome;
+      right: 5px;
+      position: absolute;
+      top: 0;
+    }
 }
 
 // Font styling
