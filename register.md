@@ -55,8 +55,10 @@ layout: default
 					<label for="auskey">AUSkey&nbsp;<a class="cd-btn help" href="#"><span>more information</span></a></label>
 				</p>
 			</div><!-- col -->
-		</div><!-- grid-row -->
-				<div class="registration-tip">
+		</div>
+		
+<!--
+		<div class="registration-tip">
 			<h3>Not sure?</h3>
 			<p>If you <strong>already have an ABN</strong> and just want to apply for:</p>
 			<ul><li>a tax registration, please visit the <a href="#" target="_blank">Apply for tax registrations</a> page.</li>
@@ -66,6 +68,7 @@ layout: default
 				<a href="help-me-decide/eligibility.html">Help me decide</a>
 			</p>
 		</div>
+		-->
 
 		<div class="controls-content">
 			<button type="button" id="start-applying" class="btn btn-default next">Next</button>
