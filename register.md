@@ -1,5 +1,5 @@
 ---
-title: Business registration
+title: Ready to register
 layout: default
 ---
 <h1 id="heading" tabindex="-1">{{ page.title }}</h1>
