@@ -4,8 +4,10 @@ layout: default
 ---
 <h1 id="heading" tabindex="-1">{{ page.title }}</h1>
 
-<p>Welcome to the Australian Government Business Registration Service. <br>Here you can apply for your key business and tax registrations in one place.</p>
-<p>New to business? To help you get started, see our <a class="standard-link external-link" href="https://www.business.gov.au/Guide/Starting" target="_blank">Starting a business guide <span class="visuallyhidden">(opens in new window)</span></a>.</p>
+<div class="introPara">
+	<p>Welcome to the Australian Government Business Registration Service. <br>Here you can apply for your key business and tax registrations in one place.</p>
+	<p>New to business? To help you get started, see our <a class="standard-link external-link" href="https://www.business.gov.au/Guide/Starting" target="_blank">Starting a business guide <span class="visuallyhidden">(opens in new window)</span></a>.</p>
+</div>
 
 <div id="select-registrations" class="sub-section-container sub-section-open">
 	<h2>Select registrations</h2>
@@ -22,7 +24,7 @@ layout: default
 				</p>
 				<p>
 					<input id="bn" type="checkbox" value="bn">
-					<label class="has-help" for="bn">Business Name</label>
+					<label class="has-help" for="bn">Business Name&nbsp;<a class="cd-btn help" href="#"><span>more information</span></a></label>
 				</p>
 				<p>
 					<input id="gst" type="checkbox" value="gst">
