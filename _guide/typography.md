@@ -13,7 +13,7 @@ layout: default
 <p>Two variations of Open Sans are currently being used:</p>
 <ul>
   <li><strong>open_sanslight</strong> for body text</li>
-  <li><strong>open_sansregular</strong> for headings</li>
+  <li><strong>open_sansregular</strong> for headings</li><!-- Not any more -->
 </ul>
 <h3>Block Elements</h3>
 <p>This is a standard paragraph. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>

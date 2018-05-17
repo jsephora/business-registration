@@ -23,7 +23,8 @@
 }
 
 body {
-	font-family: open_sansregular, helvetica, arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
 }
 
 /* set container properties */

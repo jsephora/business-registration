@@ -210,7 +210,7 @@ layout: default
 	}
 	
 	td label.label-right {
-		font-family: "open_sanslight";
+		font-family: 'Open Sans', sans-serif;
 		font-weight: bold;
 	}
 	

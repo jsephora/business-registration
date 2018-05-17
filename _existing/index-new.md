@@ -55,7 +55,7 @@ layout: default-signin-nav
 		border-style: solid;
 		border-width: 0;
 		cursor: pointer;
-		font-family: "open_sanslight",sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: normal;
 		line-height: normal;
 		margin: 0;

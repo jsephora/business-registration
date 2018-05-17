@@ -27,7 +27,7 @@ layout: default
 	}
 	
 	.natural-menu p.lang {
-		font-family: open_sansregular, helvetica, arial, sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		margin-bottom: 5px;
 	}
 	
