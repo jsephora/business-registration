@@ -211,7 +211,7 @@ layout: default
 	
 	td label.label-right {
 		font-family: 'Open Sans', sans-serif;
-		font-weight: bold;
+		font-weight: 600;
 	}
 	
 	span.fa-exclamation-circle {

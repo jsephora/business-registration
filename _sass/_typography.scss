@@ -90,7 +90,7 @@ h1 {
   font-size: 180%;
   font-family: $font-heading;
   line-height: 1.2em;
-  font-weight: bold;
+  font-weight: 600;
   letter-spacing: -1px;
   padding: 0 0 0.5em 0;
   margin: 1em 0 0.5em 0;
@@ -230,7 +230,7 @@ td.warning {
 		background: none;
 		border-top: 6px solid $brand-blue;
 		font-size: 150%;
-		font-weight: bold;
+		font-weight: 600;
 		padding: 1em 0 0 0;
 	}
 	

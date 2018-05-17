@@ -35,7 +35,7 @@ layout: default
 		text-decoration: none;
 		border-bottom: 2px dotted #3179b5;
 		color: #3179b5;
-		font-weight: bold;
+		font-weight: 600;
 		margin-right: 25px;
 		display: inline-block;
 	}

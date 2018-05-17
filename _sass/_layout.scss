@@ -340,7 +340,7 @@ footer {
 				padding-left: 0;
 				margin-left: 1rem;
 				font-family: 'Open Sans', sans-serif;
-				font-weight: bold;
+				font-weight: 600;
 				font-size: 1.125rem;
 			}
 			
@@ -578,7 +578,7 @@ footer {
 	strong {
 		font-size: 120%;
 		font-family: $font-heading;
-		font-weight: bold;
+		font-weight: 600;
 	}
 	.col6 {
 		border-right: 1px solid white;
@@ -641,7 +641,7 @@ h2.cart-heading {
 	background: transparent url(../img/bg-fade-down.png) repeat-x 0 0;
 
 	p strong {
-		font-weight: bold;
+		font-weight: 600;
 		font-family: $font-heading;  
 	}
 }
@@ -743,7 +743,7 @@ h2.cart-heading {
 }
 
 .subtotal {
-  font-weight: bold;
+  font-weight: 600;
   padding-left: 1em;
 }
 
@@ -1050,7 +1050,7 @@ select.registration-duration {
     border: 0;
     border-bottom: 2px solid $table-lines;
     font-size: 140%;
-    font-weight: bold;
+    font-weight: 600;
   }
   td, th {
     padding-left: 10px;

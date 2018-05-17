@@ -114,7 +114,7 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 /**
@@ -410,7 +410,7 @@ legend.margin4 {
 }
 legend.larger {
   font-size: 130%;
-  font-weight: bold;
+  font-weight: 600;
   padding: 0.35em 0 1em 0;
 }
 legend.larger span {
@@ -439,7 +439,7 @@ textarea {
  */
 
 optgroup {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 /* Tables

@@ -197,7 +197,7 @@ layout: default
     <table>
         <caption>
             Application reference: <strong>#1701-AA-0099-L</strong><br>
-            <span id="app-status" class="app-status">Payment in progress since 11 Jan 2017 09:39</span>  <span id="status-change" style="font-weight: bold; display: none;">*** Status changed ***</span>
+            <span id="app-status" class="app-status">Payment in progress since 11 Jan 2017 09:39</span>  <span id="status-change" style="font-weight: 600; display: none;">*** Status changed ***</span>
 			<span id="app-update" class="controls" style="display: none;">
 				<a class="refresh" href="javascript:void(0)" onclick="refresh()"><span class="fa fa-refresh"></span>Refresh</a>
 			</span>

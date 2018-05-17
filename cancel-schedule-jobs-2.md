@@ -26,7 +26,7 @@ tr:hover td.more {
 	background-color: #e7e7e7;
 }
 tr:hover td.more a {
-	font-weight: bold;
+	font-weight: 600;
 }
 td.more a:hover {
 	color: #000;
