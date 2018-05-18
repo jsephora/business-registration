@@ -59,6 +59,18 @@ layout: default
 			</div><!-- col -->
 		</div>
 		
+
+<svg width="32px" height="33px" viewBox="0 0 32 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Ionicons" font-size="36" font-weight="400">
+        <g id="Step-4" transform="translate(-129.000000, -996.000000)" fill="#E5B03B">
+            <text id="ion-android-bulb---Ionicons">
+                <tspan x="129" y="1026"></tspan>
+            </text>
+        </g>
+    </g>
+</svg>
+
+
 <!--
 		<div class="registration-tip">
 			<h3>Not sure?</h3>
