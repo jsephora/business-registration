@@ -59,7 +59,8 @@ layout: default
 			</div><!-- col -->
 		</div>
 		
-
+<div class="row">
+<p>
 <svg width="32px" height="33px" viewBox="0 0 32 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Ionicons" font-size="36" font-weight="400">
         <g id="Step-4" transform="translate(-129.000000, -996.000000)" fill="#E5B03B">
@@ -70,6 +71,9 @@ layout: default
     </g>
 </svg>
 
+Not sure what registrations you need? Try our <a href="help-me-decide/eligibility.html">Help me decide</a> tool.</p>
+
+</div>
 
 <!--
 		<div class="registration-tip">
