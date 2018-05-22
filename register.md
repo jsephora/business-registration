@@ -6,7 +6,7 @@ layout: default
 
 <div class="introPara">
 	<p>Welcome to the Australian Government Business Registration Service. <br>Here you can apply for your key business and tax registrations in one place.</p>
-	<p>New to business? To help you get started, see our <a class="standard-link" href="https://www.business.gov.au/Guide/Starting" target="_blank">Starting a business guide <i class="fas fa-external-link-alt"></i><span class="visuallyhidden">(opens in new window)</span></a>.</p>
+	<p>New to business? To help you get started, see our <a class="standard-link" href="https://www.business.gov.au/Guide/Starting" target="_blank">Starting a business guide<i class="fas fa-external-link-alt"></i><span class="visuallyhidden">(opens in new window)</span></a>.</p>
 </div>
 
 <div id="select-registrations" class="sub-section-container sub-section-open">
